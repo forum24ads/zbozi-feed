@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>trump-2-0</ITEM_ID>
+    <PRODUCTNAME>Trump 2.0</PRODUCTNAME>
+    <PRODUCT>Trump 2.0 – Johana Hovorková (ed.), Fórum pro média, kulturu a civilizaci</PRODUCT>
+    <DESCRIPTION>První týdny po inauguraci Donalda Trumpa 47. prezidentem USA ukázaly změnu geopolitiky. Autoři nehodnotí, ale hledají příčiny jeho vítězství a kroků a pomáhají pochopit turbulentní dobu.</DESCRIPTION>
+    <URL>https://www.eshopforum.cz/trump-2-0</URL>
+    <IMGURL></IMGURL>
+    <PRICE_VAT>379</PRICE_VAT>
+    <VAT>10</VAT>
+    <MANUFACTURER>Fórum pro média, kulturu a civilizaci</MANUFACTURER>
+    <ISBN>978-80-909082-3-9</ISBN>
+    <EAN>978-80-909082-3-9</EAN>
+    <ITEMGROUP_ID>trump-2-0</ITEMGROUP_ID>
+    <CATEGORYTEXT>Knihy | Svět</CATEGORYTEXT>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
+      <DELIVERY_PRICE>89</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>129</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <DELIVERY>
+      <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+      <DELIVERY_PRICE>79</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>119</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <PARAM>
+      <PARAM_NAME>Vazba</PARAM_NAME>
+      <VAL>měkká s klopami</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Počet stran</PARAM_NAME>
+      <VAL>260</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Datum vydání</PARAM_NAME>
+      <VAL>2025-05-05</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Jazyk</PARAM_NAME>
+      <VAL>čeština</VAL>
+    </PARAM>
+    <PARAM>
+      <PARAM_NAME>Formát</PARAM_NAME>
+      <VAL>tištěná kniha</VAL>
+    </PARAM>
+    <SHOP_DEPOTS>
+      <DEPOT>
+        <DEPOT_NAME>Hlavní sklad</DEPOT_NAME>
+        <IN_STOCK>1</IN_STOCK>
+      </DEPOT>
+    </SHOP_DEPOTS>
+  </SHOPITEM>
+</SHOP>
